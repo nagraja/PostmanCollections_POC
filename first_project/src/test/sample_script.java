@@ -37,6 +37,7 @@ public class sample_script
 		String URL_Value = DriverOBJ.getCurrentUrl();
 		System.out.println("Browser Launched"+URL_Value);
 		System.out.println("Git Test Browser Launched"+URL_Value);
+		System.out.println("Git Test1 Browser Launched"+URL_Value);
 		
 		//Function Library and Object Repository Object Creation
 		app_fl_or florOBJ = new app_fl_or(DriverOBJ);
