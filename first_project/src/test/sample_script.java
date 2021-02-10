@@ -35,6 +35,7 @@ public class sample_script
 				
 		gfOBJ.LaunchApplication_Fun();
 		String URL_Value = DriverOBJ.getCurrentUrl();
+		System.out.println("Browser Launched"+URL_Value);
 		System.out.println("Git Test Browser Launched"+URL_Value);
 		
 		//Function Library and Object Repository Object Creation
