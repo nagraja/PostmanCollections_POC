@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "964d9056-bc40-4caa-815d-7394bf3201f9",
+		"_postman_id": "83c3a0d2-dcb7-4eb7-8ff5-84c304f4b0ba",
 		"name": "PMC_POC_STC_C1",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -20,6 +20,7 @@
 							"//This is Comments test\r",
 							"//this is another modification\r",
 							"//this is modification in GitHub to pull from GitBash\r",
+							"//UPdate in Postman to push changes to GITHub\r",
 							""
 						],
 						"type": "text/javascript"
