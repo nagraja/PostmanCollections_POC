@@ -19,6 +19,7 @@
 							"\r",
 							"//This is Comments test\r",
 							"//this is another modification\r",
+							"//this is modification in GitHub to pull from GitBash\r",
 							""
 						],
 						"type": "text/javascript"
